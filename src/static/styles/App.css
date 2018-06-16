@@ -1,0 +1,9 @@
+.notification {
+    text-align: center;
+    height: 70px;
+}
+
+.cityList {
+    display: flex;
+    flex-flow: row wrap;
+}
